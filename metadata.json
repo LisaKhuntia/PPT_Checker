@@ -1,0 +1,6 @@
+{
+  "name": "DeckDoc AI",
+  "description": "An intelligent PowerPoint text extractor, grammar corrector, summarizer, and AI integrity plagiarism checker with professional PDF export and responsive minimalist layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
